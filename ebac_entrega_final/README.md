@@ -1,17 +1,16 @@
-Alumno: Daniel Gálvez Vidal 
-
-Proyecto Reckitt
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Propósito del proyecto
+### Proyecto: Reckitt
+### Alumno Daniel Gálvez Vidal
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Propósito del proyecto
 
 Exploraremos los "insights" sobre como se han comportado las ventas de la empresa reckitt, el análisis es importante porqué así podemos conocer más a fondo el rendimiento de la empresa, esto nos ayudará a enteder mejor, el desempeño de los productos en cuanto a ventas, así como el comportamiento de las diferentes zonas en las que se encuentra la empresa. Además haremos un pronóstico del rendimiento para con esto poder ayudar a la empresa a que tenga una idea un poco más clara de sus ventas a futuro y así poder adelantase en la toma de decisiones que ayuden a un mejor desempeño.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Datos utilizados
+### Datos utilizados
 
 Los datos a utilizarse son: TOTAL_UNIT_SALES,TOTAL_VALUE_SALES,TOTAL_UNIT_AVG_WEEKLY_SALES,REGION, BRAND,PRODUCT todo esto correspondiente al 2022 y un poco de el 2023.
 
-Técnicas que aplicadas
+### Técnicas que aplicadas
 
 - Visualización de datos usando diferentes librerías, como: matplotlib y seaborn
 
@@ -19,7 +18,7 @@ Técnicas que aplicadas
 
 - Segmentación con ayuda de KMeans, segmentación por "clusters"
 
-Para conocer el número de "clusters" ideal se utilizó el método del "codo de Jambú"
+### Para conocer el número de "clusters" ideal se utilizó el método del "codo de Jambú"
 
 - Se creo una base de datos con la herraminta SQL Server Management Studio para poder hacer consultas y filtrado
 
@@ -36,9 +35,9 @@ el comportmamiento de la empresa. Además de obtener los pronóstico obtuvimos s
 -Por útimo se creo un "Dashboard" con ayuda de la herramineda PowerBi para poder, interactuar con los datos, filtrarlos en tiempo real dependiendo de lo que se necesita
 
 así también como visualizaciones en tiempo real que nos ayudan a describir a describir y a entender mejor el comportamiento de la empresa. 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Conclusiones y hallazgos importantes
+### Conclusiones y hallazgos importantes
 
 El líder en ventas por región es 'Total Auto Scanning México. Está muy por encima de las demás regiones que están casi al mismo nivel en ellas. Se recomienda revisar cuales son los factores que hacen que está diferencia tan grande. Revisar sus procesos y tomar medidas para incrementar las ventas. 
 
